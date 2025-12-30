@@ -46,3 +46,22 @@ Button reuse
 Proper spacing & typography
 
 ## Task-4  Create Simple Counter App
+
+
+
+## Task-5 Add New Job (Modal / Page)
+
+একটা form বানাতে হবে:
+
+Job Title
+
+Company Name
+
+Location
+
+Job Type (Select)
+
+Submit Button
+
+✔️ Submit করলে job list-এ add হবে
+✔️ Proper form validation থাকতে হবে
